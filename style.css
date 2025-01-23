@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(253, 250, 250);
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1a1a1a;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    color: #eee;
+  }
+
+.find{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.number{
+    text-align: center;
+    padding: 2.5rem;
+    background: linear-gradient(145deg, #1f1f1f, #292929);
+    border-radius: 20px;
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.3), -8px -8px 15px rgba(255, 255, 255, 0.05);
+    max-width: 400px;
+    width: 90%;
+    margin-left: 60px;
+}
+
+    
