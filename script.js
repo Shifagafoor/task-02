@@ -1,7 +1,7 @@
 function character(number) {
-    const char = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"; 
+    const char = "12345"; 
     const base = char.length;
-  
+
     number -= 1; 
     if (number < 0) return "1"; 
   
